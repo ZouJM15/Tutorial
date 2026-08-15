@@ -6,5 +6,5 @@ A collection of notes and code implementations from online tutorial courses, fea
 
 | 课程名称 | 博主/频道 | 视频链接 | 本地目录 | 状态 | 备注 |
 |----------|-----------|----------|----------|------|------|
-| LangChain Full Crash Course - AI Agents in Python | [NeuralNine](https://www.youtube.com/@NeuralNine) | [观看](https://www.youtube.com/watch?v=J7j5tCB_y4w&t=215s) | `LangChain Full Crash Course - AI Agents in Python/` | ✅ 已完成 | LangChain1小时速成课 |
+| LangChain Full Crash Course - AI Agents in Python | [NeuralNine](https://www.youtube.com/@NeuralNine) | 原视频(https://www.youtube.com/watch?v=J7j5tCB_y4w&t=215s) | `LangChain Full Crash Course - AI Agents in Python/` | ✅ 已完成 | LangChain1小时速成课 |
 
